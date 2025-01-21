@@ -53,8 +53,7 @@ Alita AI is a simple typing-based AI assistant created by Ajay (AJ). It utilizes
   - Enable multi-query sessions with context-aware responses.
 
 ## Author
-SRI AJAY (AJ):
-GitHub: [SRI-AJAY-007](https://github.com/SRI-AJAY-007)
+SRI AJAY (AJ): [SRI-AJAY-007](https://github.com/SRI-AJAY-007)
 
 
 Feel free to customize and add more details based on the specifics of your project!
