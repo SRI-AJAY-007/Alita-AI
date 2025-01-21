@@ -40,7 +40,22 @@ Alita AI is a simple typing-based AI assistant created by Ajay (AJ). It utilizes
      ```bash
      jupyter notebook Alita_AI.ipynb
      ```
+     
+## Future Improvements
+
+- **Enhanced User Interface:**
+  - Consider adding a graphical user interface for a more user-friendly experience.
+
+- **Expanded Functionality:**
+  - Integrate additional APIs for broader functionality and information retrieval.
+
+- **Context Awareness:**
+  - Enable multi-query sessions with context-aware responses.
 
 ## Author
 SRI AJAY (AJ):
+GitHub: [SRI-AJAY-007](https://github.com/SRI-AJAY-007)
+
+
+Feel free to customize and add more details based on the specifics of your project!
 
