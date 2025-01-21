@@ -55,6 +55,7 @@ Alita AI is a simple typing-based AI assistant created by Ajay (AJ). It utilizes
 ## Author
 SRI AJAY (AJ): [SRI-AJAY-007](https://github.com/SRI-AJAY-007)
 
-
+## Acknowledgments
+Special thanks to the developers of Google Generative AI (Gemini) and the gtts package for their contributions to this project.
 Feel free to customize and add more details based on the specifics of your project!
 
